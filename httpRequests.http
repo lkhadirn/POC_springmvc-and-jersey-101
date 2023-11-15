@@ -1,0 +1,6 @@
+###
+GET  http://localhost:8088/mvc/hello
+
+###
+GET  http://localhost:8088/rest/hello
+
