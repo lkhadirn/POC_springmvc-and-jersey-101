@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is designed to show a proof of concept on how to use with jersey and spring mvc in the same project.
+This project is designed to show a proof of concept on how to use jersey and spring mvc in the same project.
 
 ## Prerequisites
 
